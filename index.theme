@@ -1,0 +1,13 @@
+[Icon Theme]
+Name=Neon-Icons
+Inherits=Zafiro-icons,Zafiro-icons-variant-A,Zafiro-icons-light,Surfn,Numix,Numix-Circle-Light,Numix-Circle,breeze,gnome,hicolor
+
+# Directory list
+Directories=apps/64,
+
+[apps/64]
+Size=64
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
