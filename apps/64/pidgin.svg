@@ -16,30 +16,31 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="vlc.svg">
+   sodipodi:docname="pidgin.svg">
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient834">
+       id="linearGradient884"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#ffad6e;stop-opacity:1"
+         id="stop874"
          offset="0"
-         id="stop830" />
+         style="stop-color:#79f7f7;stop-opacity:1" />
       <stop
-         style="stop-color:#fff142;stop-opacity:0.77835053"
+         id="stop882"
          offset="1"
-         id="stop832" />
+         style="stop-color:#9367f2;stop-opacity:0.96862745" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient834"
-       id="linearGradient836"
-       x1="6.6145835"
-       y1="282.44791"
-       x2="14.816667"
-       y2="295.41248"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient884"
+       id="linearGradient911"
+       gradientUnits="userSpaceOnUse"
+       x1="3.7882569"
+       y1="294.43011"
+       x2="14.795703"
+       y2="281.93527"
+       gradientTransform="rotate(-180,8.6071018,288.48337)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -48,25 +49,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79882813"
-     inkscape:cx="-2.8910243"
-     inkscape:cy="19.2718"
+     inkscape:zoom="5.6"
+     inkscape:cx="28.831788"
+     inkscape:cy="19.240043"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:lockguides="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid1366" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -75,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,10 +79,10 @@
      id="layer1"
      transform="translate(0,-280.06665)">
     <path
-       style="fill:none;stroke:url(#linearGradient836);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6.6145833,283.24165 1.0583334,-1.85208 2.9104163,4.23333 H 5.55625 l -1.3229167,2.38125 h 7.4083337 l 1.5875,2.64583 H 3.4395833 l -0.79375,2.38125 H 13.758333 l 1.852084,2.91042 -14.2875003,1e-5 v -0.52918"
-       id="path826"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient911);stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.9028857,285.65121 c 0.368188,-0.8705 0.900964,-1.65443 1.559316,-2.31278 1.316704,-1.3167 3.135715,-2.1311 5.1449378,-2.1311 10.3728875,1.07179 7.6584625,14.31931 0,14.55208 l -7.2542658,-0.002 -0.021776,-6.33839 1.7444685,-0.0223 c -2.3e-6,-0.90411 0.7329198,-1.63703 1.6370258,-1.63703 0.9041061,0 1.6370282,0.73292 1.6370259,1.63703 2.3e-6,0.90411 -0.7329198,1.63703 -1.6370259,1.63703"
+       id="path817"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="cscccccscc" />
   </g>
 </svg>
