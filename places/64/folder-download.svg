@@ -16,32 +16,31 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="folder-music.svg">
+   sodipodi:docname="folder-download.svg">
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient823">
+       id="linearGradient852">
       <stop
-         style="stop-color:#c0e5c0;stop-opacity:0.87591243"
+         style="stop-color:#bcefff;stop-opacity:1"
          offset="0"
-         id="stop819" />
+         id="stop848" />
       <stop
-         style="stop-color:#f1cd99;stop-opacity:1"
+         style="stop-color:#f6d0f4;stop-opacity:1"
          offset="1"
-         id="stop821" />
+         id="stop850" />
     </linearGradient>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient823"
-       id="radialGradient825"
-       cx="8.818716"
-       cy="288.14865"
-       fx="8.818716"
-       fy="288.14865"
-       r="4.7929131"
-       gradientTransform="matrix(1.8501501,0,0,1.6064949,-7.4972327,-174.7607)"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient852"
+       id="linearGradient854"
+       x1="6.9918456"
+       y1="295.46359"
+       x2="12.068533"
+       y2="283.55643"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(90,8.7832314,288.76004)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -80,9 +79,9 @@
      id="layer1"
      transform="translate(0,-280.06664)">
     <path
-       style="fill:none;stroke:url(#radialGradient825);stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.031097,280.97284 -5.7951213,0.63384 -0.045274,13.49177 c -6.0668153,0 -5.6729363,-7.87774 0.090548,-7.87774"
-       id="path817"
+       style="fill:none;stroke:url(#linearGradient854);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.1160064,283.55348 H 15.438566 l -6.6553396,10.41311 -6.65533,-10.32256"
+       id="path846"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>

@@ -16,31 +16,29 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="folder-music.svg">
+   sodipodi:docname="utilities-system-monitor.svg">
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient823">
+       id="linearGradient984">
       <stop
-         style="stop-color:#c0e5c0;stop-opacity:0.87591243"
+         style="stop-color:#dbc5f4;stop-opacity:1"
          offset="0"
-         id="stop819" />
+         id="stop980" />
       <stop
-         style="stop-color:#f1cd99;stop-opacity:1"
+         style="stop-color:#bfcfed;stop-opacity:1"
          offset="1"
-         id="stop821" />
+         id="stop982" />
     </linearGradient>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient823"
-       id="radialGradient825"
-       cx="8.818716"
-       cy="288.14865"
-       fx="8.818716"
-       fy="288.14865"
-       r="4.7929131"
-       gradientTransform="matrix(1.8501501,0,0,1.6064949,-7.4972327,-174.7607)"
+       xlink:href="#linearGradient984"
+       id="linearGradient986"
+       x1="0.89824092"
+       y1="281.0506"
+       x2="18.225988"
+       y2="293.68213"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -51,8 +49,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.8439955"
-     inkscape:cx="-6.4978053"
-     inkscape:cy="35.267635"
+     inkscape:cx="12.208299"
+     inkscape:cy="33.174577"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,10 +78,10 @@
      id="layer1"
      transform="translate(0,-280.06664)">
     <path
-       style="fill:none;stroke:url(#radialGradient825);stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.031097,280.97284 -5.7951213,0.63384 -0.045274,13.49177 c -6.0668153,0 -5.6729363,-7.87774 0.090548,-7.87774"
-       id="path817"
+       style="fill:none;stroke:url(#linearGradient986);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.3429873,288.00409 h 1.8411463 l 1.8411462,1.85319 1.8411462,-4.6602 1.841146,4.52272 1.841147,-4.64928 1.841146,2.93357 h 1.841146 v -5.3143 H 1.3765946 v 10.75665 H 16.253506 l 0,-3.01125"
+       id="path959"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>
